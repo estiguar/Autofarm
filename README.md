@@ -1,6 +1,4 @@
-# Autofarm
-Mob Farm
-package Base.Autofarm;
++package Base.Autofarm;
 
 import java.util.ArrayList;
 import java.util.Arrays;
